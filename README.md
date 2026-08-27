@@ -1,3 +1,1 @@
-# Restaurant-Class-
-
-#### Hi Welcome to the Club
+# Hi welcome to the Restaurant Class Club
